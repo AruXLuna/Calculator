@@ -1,1 +1,1 @@
-My first Project in C++, So maybe there so many wrong or messed code but i will do my best to make my code clean :3
+My C++ project,Sorry if my code are Messed but i will my best :3
